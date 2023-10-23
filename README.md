@@ -1,3 +1,7 @@
+Location Urls
+http://ip-api.com/json
+https://api.ipregistry.co?key=tryout
+
 <ProgressBar
     android:id="@+id/splashProgressBar"
     style="@style/Widget.AppCompat.ProgressBar.Horizontal"
